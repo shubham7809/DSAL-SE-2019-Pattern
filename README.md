@@ -1,1 +1,1 @@
-# DSAL-SE-2019-Pattern
+Second year Data Structure Lab Practical Codes
